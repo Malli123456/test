@@ -1,0 +1,3 @@
+echo "welcome to devops"
+echo "welcome to aws"
+date
